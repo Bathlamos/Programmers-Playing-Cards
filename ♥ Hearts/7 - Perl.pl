@@ -1,0 +1,1 @@
+my $card = { rank => 7, suit => "Diamond" }
