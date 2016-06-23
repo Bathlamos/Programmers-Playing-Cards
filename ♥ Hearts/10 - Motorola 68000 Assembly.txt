@@ -1,0 +1,11 @@
+      .TEXT   1
+
+Suit: .ASCII  "hearts"
+
+      .BYTE   CR,LF,0
+
+      .DATA
+
+Two:  .BYTE 10
+
+      .TEXT 0
