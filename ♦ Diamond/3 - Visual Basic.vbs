@@ -1,4 +1,6 @@
-Dim c = New With {
-  .rank = 2,
+Dim card = New With {
+  .rank = 3,
   .suit = "diamond"
 }
+
+Printer.Print(card)
