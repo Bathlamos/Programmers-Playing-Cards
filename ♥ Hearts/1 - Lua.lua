@@ -1,3 +1,7 @@
-local rank = 1
-local name = "Ace"
-local suit = "hearts"
+Card = {
+  rank = 2,
+  suit = "hearts",
+  print = function (self)
+    print rank..suit
+  end
+}
