@@ -1,5 +1,6 @@
-.hearts {
-    color: rgb(255, 0, 0);
-    font-family: Roboto;
-    background: #fff;
+.diamond {
+  color: rgb(255, 0, 0);
+  font-family: Roboto;
+  background: #fff;
+  border-radius: 30px;
 }
