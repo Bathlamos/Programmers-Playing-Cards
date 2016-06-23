@@ -4,4 +4,5 @@ type Card
     name::AbstractString
 end
 
-ace = Card(11, "Ace", "clubs")
+card = Card(1, "Ace", 
+               "clubs")
