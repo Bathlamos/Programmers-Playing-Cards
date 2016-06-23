@@ -2,5 +2,5 @@ struct Card {
   int rank;
   string suit;
 }
-
-auto c = Card(7, "diamond");
+auto card = 
+  Card(7, "diamond");
