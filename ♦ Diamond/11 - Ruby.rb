@@ -1,7 +1,7 @@
 Class FaceCard < Card
   def initialize
-    @name = ‘Jack’
+    @name = 'Jack'
     @value = 11
-    @suit = ‘diamond’
+    @suit = 'diamond'
   end
 end
