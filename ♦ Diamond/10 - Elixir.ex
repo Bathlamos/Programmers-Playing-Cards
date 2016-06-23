@@ -1,4 +1,7 @@
 defmodule Card do
-  def value, do: 10
-  def suit, do: ‘diamond’
+  def rank, do: 10
+  def suit, do:'diamond'
+
+  IO.puts rank <> 'of' 
+               <> suit
 end
