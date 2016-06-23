@@ -1,7 +1,8 @@
 type
   TCard = class(TObject)
   public
-    Rank: Integer;
-    constructor Create(ARank: Integer; ASuit: String);
+    Name: String;
+    constructor Create
+          (Name: String);
   end;
-Card := TCard.Create(3, ‘hearts’);
+Card:=TCard.Create('2♥');
