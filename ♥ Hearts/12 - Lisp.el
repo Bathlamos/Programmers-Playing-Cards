@@ -1,3 +1,8 @@
-(def card { :rank 11
-            :name :Jack
-            :suit :hearts })
+(defstruct card { :rank 
+       :name :suit })
+
+( setq card (make-card
+  :rank "12" 
+  :name "Queen" 
+  :suit "hearts"))
+(write card)
