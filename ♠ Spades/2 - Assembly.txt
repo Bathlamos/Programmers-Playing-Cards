@@ -3,4 +3,4 @@
 rank:
   .long 2
 suit:
-  .string “spades”
+  .string "spades"
