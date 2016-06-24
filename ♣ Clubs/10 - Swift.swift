@@ -3,4 +3,6 @@ struct Card {
   var suit: Suit
 }
 
-let card = Card(rank: 10, suit: .Clubs)
+let card = Card(
+  rank: 10, 
+  suit: .Clubs)
