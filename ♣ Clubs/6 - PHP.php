@@ -1,5 +1,6 @@
 class Card {
-function Card($rank, $suit) {
+function 
+  Card($rank, $suit) {
     $this->$rank;
     $this->$suit;
 }}
