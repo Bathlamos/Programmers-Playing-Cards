@@ -1,3 +1,7 @@
-10 LET RANK = 12
-20 LET $NAME = "Queen"
-30 LET $SUIT = "clubs"
+LET $RANK = 12
+LET $NAME = "Queen"
+LET $SUIT = "clubs"
+
+Debug.Print $RANK, 
+            $NAME, 
+            $SUIT
