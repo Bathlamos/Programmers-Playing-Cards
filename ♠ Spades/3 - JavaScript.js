@@ -1,6 +1,6 @@
 var card = {
-    rank: 3,
-    suit: "spades"
+  rank: 3,
+  suit: "spades"
 };
-
-console.log(JSON.stringify(card));
+console.log(
+  JSON.stringify(card));
