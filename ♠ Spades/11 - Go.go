@@ -1,5 +1,7 @@
-card := &map[string]interface{} {
-	"rank": 11,
-	"name": "jack",
-	"suit": "spades",
+card := 
+  &map[string]
+  interface{} {
+    "rank": 11,
+	   "name": "Jack",
+	   "suit": "spades",
 }
