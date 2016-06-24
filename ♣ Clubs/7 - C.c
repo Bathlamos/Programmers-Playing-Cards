@@ -1,4 +1,7 @@
 struct card {
   const int rank;
   const char* suit;
-} card = {7, "clubs"};
+} card = {
+  7, 
+  "clubs"
+};
