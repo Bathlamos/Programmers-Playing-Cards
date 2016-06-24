@@ -1,1 +1,7 @@
-var card:{ rank: Int, suit: String } = { rank: 5, suit: "Clubs" };
+var card:{ 
+  rank: Int, 
+  suit: String } 
+= { 
+  rank: 5, 
+  suit: "Clubs" 
+};
