@@ -5,4 +5,4 @@ type
     constructor Create
       (AName: String);
   end;
-Card:=TCard.Create('2♥');
+Card:=TCard.Create('3♥');
