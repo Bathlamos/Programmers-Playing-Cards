@@ -1,4 +1,5 @@
-Class FaceCard < Card
+class Card;end
+class FaceCard < Card
   def initialize
     @name = 'Jack'
     @value = 11
