@@ -1,6 +1,6 @@
 import static Suit.*;
 
 public class Card {
-    byte rank = 8;
+    int rank = 8;
     Suit suit = Suit.DIAMONDS;
 }
