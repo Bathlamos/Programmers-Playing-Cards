@@ -1,4 +1,4 @@
 card := Dictionary newFrom: {
   #rank -> 9.
-  #suit -> "diamond".
+  #suit -> "diamonds".
 }.

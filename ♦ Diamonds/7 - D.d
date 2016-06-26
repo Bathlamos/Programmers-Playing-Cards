@@ -3,4 +3,4 @@ struct Card {
   string suit;
 }
 auto card = 
-  Card(7, "diamond");
+  Card(7, "diamonds");

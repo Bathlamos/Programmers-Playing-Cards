@@ -4,5 +4,5 @@ deck <- data.frame(
           rank = ranks())
 Four.of.Diamond <-
   deck$card[
-    deck$suit=="diamond"
+    deck$suit=="diamonds"
     & deck$rank=="4"]

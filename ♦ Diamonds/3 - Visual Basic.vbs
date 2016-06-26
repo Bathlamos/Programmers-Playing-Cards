@@ -1,6 +1,6 @@
 Dim card = New With {
   .rank = 3,
-  .suit = "diamond"
+  .suit = "diamonds"
 }
 
 Printer.Print(card)

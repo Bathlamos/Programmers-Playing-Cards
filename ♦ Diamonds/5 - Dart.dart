@@ -1,6 +1,6 @@
 var card = { 
   'rank': 5, 
-  'suit': 'diamond' 
+  'suit': 'diamonds' 
 };
 
 print(card);
