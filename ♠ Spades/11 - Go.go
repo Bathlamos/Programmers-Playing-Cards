@@ -1,7 +1,7 @@
-card := 
-  &map[string]
-  interface{} {
-    "rank": 11,
-	   "name": "Jack",
-	   "suit": "spades",
+type Card struct {
+  rank int
+  name string
+  suit string
 }
+
+c := Card{11, "Jack", "spades"}
