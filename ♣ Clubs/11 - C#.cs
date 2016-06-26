@@ -1,8 +1,13 @@
-//string[] card;
-card = new string[3];
-card[0] = "11";
-card[1] = "Jack";
-card[2] = "clubs";
-
-foreach (string s in card) 
-  Console.WriteLine(s);
+public class Card
+{
+    public string Name { get; set; }
+    public string Suit { get; set; }
+    public int Rank { get; set; }
+    public Card(string name, string suit, int rank)
+    {
+        Name = name;
+        Suit = suit;
+        Rank = rank;
+    }
+}
+Card card = new Card('Jack', "clubs", 11)
