@@ -3,6 +3,6 @@ type
   public
     Name: String;
     constructor Create
-          (Name: String);
+      (AName: String);
   end;
 Card:=TCard.Create('2♥');
