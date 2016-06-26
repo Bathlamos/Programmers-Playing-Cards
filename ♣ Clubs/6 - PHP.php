@@ -4,7 +4,7 @@ class Card
 {
     private $rank;
     private $suit;
-    public function Card(
+    public function __construct(
         $rank,
         $suit
     ) {
