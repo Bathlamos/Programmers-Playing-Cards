@@ -1,6 +1,6 @@
 card = struct(
-  "rank", 2,
-  "suit", "diamonds"
+  'rank', 2,
+  'suit', 'diamonds'
 )
 
 disp(card)
