@@ -1,6 +1,7 @@
 .diamonds {
   color: rgb(255, 0, 0);
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   background: #fff;
   border-radius: 30px;
+  z-index: 6;
 }
