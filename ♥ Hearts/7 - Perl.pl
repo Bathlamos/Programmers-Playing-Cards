@@ -1,6 +1,6 @@
 my $card = { 
   rank => 7, 
-  suit => "Hearts"
+  suit => "hearts"
 }
 
 print "$card{$rank} of 

@@ -4,4 +4,4 @@ function card(
   Wscript.Echo rank
   Wscript.Echo suit
 }
-card(10, "Hearts")
+card(10, "hearts")
