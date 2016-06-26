@@ -1,6 +1,7 @@
 <?php
 
-class Card {
+class Card
+{
     private $rank;
     private $suit;
     public function Card(
