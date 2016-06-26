@@ -1,7 +1,14 @@
+<?php
+
 class Card {
-function 
-  Card($rank, $suit) {
-    $this->$rank;
-    $this->$suit;
-}}
-$c = new Card(6, "clubs");
+    private $rank;
+    private $suit;
+    public function Card(
+        $rank,
+        $suit
+    ) {
+        $this->rank = $rank;
+        $this->suit = $suit;
+    }
+}
+$card = new Card(6, "clubs");
