@@ -3,5 +3,5 @@ var card:{
   suit: String } 
 = { 
   rank: 5, 
-  suit: "Clubs" 
+  suit: "clubs" 
 };
