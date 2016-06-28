@@ -1,7 +1,7 @@
 type suit = Hearts | Spades | Clubs | Diamonds
-type c = { rank : int; suit : suit; }
+type card = { rank : int; suit : suit; }
 
 let card = {
-  rank = 11;
+  rank = 3;
   suit = Clubs;
 }
