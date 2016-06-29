@@ -1,7 +1,8 @@
-class Card {
-function 
-  Card($rank, $suit) {
-    $this->$rank;
-    $this->$suit;
-}}
-$c = new Card(6, "clubs");
+function card(
+  $rank, 
+  $suit
+) {
+  return $rank . " of " 
+         . $suit;
+}
+echo card(6, "clubs");
