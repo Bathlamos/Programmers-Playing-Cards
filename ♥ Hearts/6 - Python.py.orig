@@ -1,0 +1,12 @@
+from collections \
+<<<<<<< HEAD
+  import namedtuple
+=======
+    import namedtuple
+>>>>>>> 8ce950ef406dede79c17f4a23fffebdff17d8b9e
+
+Card = namedtuple(
+  'Card', 
+  ['suit', 'rank'])
+  
+card = Card("hearts", 6)
