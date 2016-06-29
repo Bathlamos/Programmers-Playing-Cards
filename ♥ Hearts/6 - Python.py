@@ -1,4 +1,5 @@
-from collections import namedtuple
+from collections \
+  import namedtuple
 
 Card = namedtuple(
   'Card', 
