@@ -1,5 +1,5 @@
 from collections
-  import namedtuple
+      import namedtuple
 
 Card = namedtuple(
   'Card', 
