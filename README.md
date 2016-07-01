@@ -15,8 +15,8 @@ Let me run you through a short scenario:
 
 ### Mockups of the cards
 
-<img src="http://coderlife.io/data/Jokers.png?rdn=0059">
-<img src="http://coderlife.io/data/Hearts.png?rdn=0059"">
-<img src="http://coderlife.io/data/Spades.png?rdn=0059"">
-<img src="http://coderlife.io/data/Diamonds.png?rdn=0059"">
-<img src="http://coderlife.io/data/Clubs.png?rdn=0059"">
+<img src="http://coderlife.io/data/Jokers.png?rdn=0054">
+<img src="http://coderlife.io/data/Hearts.png?rdn=0054"">
+<img src="http://coderlife.io/data/Spades.png?rdn=0054"">
+<img src="http://coderlife.io/data/Diamonds.png?rdn=0054"">
+<img src="http://coderlife.io/data/Clubs.png?rdn=0054"">
