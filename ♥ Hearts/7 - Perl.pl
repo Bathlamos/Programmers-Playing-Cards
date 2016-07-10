@@ -4,4 +4,4 @@ my $card = {
 }
 
 print "$card{$rank} of 
-         $card{$rank}"
+         $card{$suit}"
