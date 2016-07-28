@@ -1,10 +1,7 @@
--- |data Suit = Hearts | Spades | Clubs | Diamond
-
 data Card = Card { 
   rank :: Int, 
-  suit :: Suit }
+  suit :: String }
   deriving (Show)
 
-card :: Card
 card = Card { rank = 4, 
-  suit = "hearts" }
+  suit = "Hearts" }
