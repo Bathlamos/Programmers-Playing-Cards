@@ -15,11 +15,11 @@ Let me run you through a short scenario:
 
 ### Mockups of the cards
 
-<img src="http://coderlife.io/data/Jokers.png?rdn=0054">
-<img src="http://coderlife.io/data/Hearts.png?rdn=0054"">
-<img src="http://coderlife.io/data/Spades.png?rdn=0054"">
-<img src="http://coderlife.io/data/Diamonds.png?rdn=0054"">
-<img src="http://coderlife.io/data/Clubs.png?rdn=0054"">
+<img src="http://legault.cc/data/Jokers.png?rdn=0054">
+<img src="http://legault.cc/data/Hearts.png?rdn=0054"">
+<img src="http://legault.cc/data/Spades.png?rdn=0054"">
+<img src="http://legault.cc/data/Diamonds.png?rdn=0054"">
+<img src="http://legault.cc/data/Clubs.png?rdn=0054"">
 
 ### Do you want to know more about this project, or get a deck of cards?
 
