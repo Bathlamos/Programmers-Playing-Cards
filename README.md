@@ -15,11 +15,11 @@ Let me run you through a short scenario:
 
 ### Mockups of the cards
 
-<img src="http://legault.cc/data/Jokers.png?rdn=0054">
-<img src="http://legault.cc/data/Hearts.png?rdn=0054"">
-<img src="http://legault.cc/data/Spades.png?rdn=0054"">
-<img src="http://legault.cc/data/Diamonds.png?rdn=0054"">
-<img src="http://legault.cc/data/Clubs.png?rdn=0054"">
+![Jokers](https://github.com/Bathlamos/Programmers-Playing-Cards/blob/master/Images/Jokers.png)
+![Hearts](https://github.com/Bathlamos/Programmers-Playing-Cards/blob/master/Images/Hearts.png)
+![Spades](https://github.com/Bathlamos/Programmers-Playing-Cards/blob/master/Images/Spades.png)
+![Diamonds](https://github.com/Bathlamos/Programmers-Playing-Cards/blob/master/Images/Diamonds.png)
+![Clubs](https://github.com/Bathlamos/Programmers-Playing-Cards/blob/master/Images/Clubs.png)
 
 ### Do you want to know more about this project, or get a deck of cards?
 
